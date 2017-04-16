@@ -4,3 +4,4 @@ Thats all.
 
 To install just put file to oxide/plugins!
 Configs files: oxide/configs.
+Just set full date in config.
